@@ -5,14 +5,6 @@
 - 要件定義〜リリースまで対応可
 - Claude Code、CodexによるAI駆動開発
 
-## 技術スタック
-
-- Next.js/React
-- Kotlin
-- Go
-- AWS
-- Terraform
-
 ## 職務経歴
 
 詳しい職務経歴・実績はこちらをご覧ください。
